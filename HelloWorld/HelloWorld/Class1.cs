@@ -9,7 +9,8 @@ namespace HelloWorld
     public class Class1
     {
         string hello = "Hello World";
-
+        int number;
+        double total;
         
     }
 }
